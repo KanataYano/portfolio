@@ -9,6 +9,7 @@
 ## ② YouTubeコメント分析（Colab）
 音楽動画の価値をテキストから分析
 ▶ Colab：https://colab.research.google.com/drive/1vm_kd17FCA2MbRA_Bdm_ZpcQxo4RcV1t?usp=sharing
+▶ 紹介url：▶ https://kanatayano.github.io/opencampus-site/
 
 ---
 
