@@ -2,7 +2,7 @@
 
 ## ① Minecraftコマンド翻訳（Streamlit）
 自然言語をMinecraftコマンドに変換するアプリ
-▶ デモURL：
+▶ デモURL：https://deep-learning-ukvecax98qpqbnq3waepkn.streamlit.app/
 
 ---
 
