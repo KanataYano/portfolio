@@ -21,3 +21,4 @@
 
 ## ④ MAGIシステム（設計）
 複数AIによる意思決定モデルの設計
+▶ デモURL：https://magisystem-sh9apmiqwgx8o3qkfoevyk.streamlit.app/
